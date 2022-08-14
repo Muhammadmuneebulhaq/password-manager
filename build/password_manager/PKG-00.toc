@@ -1,0 +1,197 @@
+('D:\\Python\\projects\\password_manager\\build\\password_manager\\password_manager.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'D:\\Python\\projects\\password_manager\\build\\password_manager\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('password_manager',
+   'D:\\Python\\projects\\password_manager\\password_manager.py',
+   'PYSOURCE'),
+  ('python310.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_multiprocessing',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._rust',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_cffi_backend.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Lenovo '
+   'User\\AppData\\Local\\Programs\\Python\\Python310\\python3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Python\\projects\\password_manager\\build\\password_manager\\base_library.zip',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\LICENSE.BSD',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\RECORD',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\LICENSE.APACHE',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\METADATA',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\LICENSE.PSF',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\WHEEL',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\top_level.txt',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\INSTALLER',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\REQUESTED',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('cryptography-37.0.2.dist-info\\LICENSE',
+   'c:\\users\\lenovo '
+   'user\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\cryptography-37.0.2.dist-info\\LICENSE',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
